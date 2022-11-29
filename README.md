@@ -28,7 +28,7 @@ If you added the wrong task mistakenly, just hold that task for 4 seconds to del
 </p>
 
 You can 
-👉[Download ](https://github.com/Priyank-Bhagat/bmi_calculator/raw/master/test/build/bmiCalc.apk)👈The TodayDo App  and enjoy the tasks.
+👉[Download ](https://github.com/Priyank-Bhagat/todaydo/raw/master/test/build/todayDo.apk)👈The TodayDo App  and enjoy the tasks.
 
 ## Getting Started
 
@@ -42,3 +42,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Feedback / Suggestion
+Just download [Devcard app](https://github.com/Priyank-Bhagat/dev_card) and contact me.🤗
