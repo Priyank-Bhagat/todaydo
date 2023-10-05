@@ -27,8 +27,9 @@ If you added the wrong task mistakenly, just hold that task for 4 seconds to del
     <img width="250" src="https://user-images.githubusercontent.com/115228605/204467494-142e6772-bd54-4408-b94a-15bbdb1b1a74.gif" alt="something was here🤔">
 </p>
 
+## Download
 You can 
-👉[Download ](https://github.com/Priyank-Bhagat/todaydo/raw/master/test/build/todayDo.apk)👈The TodayDo App  and enjoy the tasks.
+👉[Download ](https://mega.nz/file/N6lVBS4C#FNoRz461AbzWl5ZKgq0YkcNic7MuYq6osaML7xe8gD0)👈The TodayDo App  and enjoy the tasks.
 
 ## Getting Started
 
