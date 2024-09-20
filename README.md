@@ -29,7 +29,7 @@ If you added the wrong task mistakenly, just hold that task for 4 seconds to del
 
 ## Download
 You can 
-👉[Download ](https://mega.nz/file/N6lVBS4C#FNoRz461AbzWl5ZKgq0YkcNic7MuYq6osaML7xe8gD0)👈The TodayDo App  and enjoy the tasks.
+👉[Download ](https://drive.google.com/file/d/1rHXFB66U4deeRzyDJ5J4hYngCi-H0grY/view?usp=sharing)👈The TodayDo App  and enjoy the tasks.
 
 ## Getting Started
 
