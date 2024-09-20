@@ -22,7 +22,7 @@ Simply check the box when you've completed your task.
 </p>
 
 If you added the wrong task mistakenly, just hold that task for 4 seconds to delete it.
-
+ 
 <p> 
     <img width="250" src="https://user-images.githubusercontent.com/115228605/204467494-142e6772-bd54-4408-b94a-15bbdb1b1a74.gif" alt="something was here🤔">
 </p>
